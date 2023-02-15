@@ -12,6 +12,6 @@ I am always open to new opportunities in the field of data analysis, and I am cu
 
 Please don't hesitate to reach out if you have any questions or opportunities.
 
-You also find me in [link](https://www.linkedin.com/in/wessamne/)
+You also can find me at [link](https://www.linkedin.com/in/wessamne/)
 
 Happy coding!
