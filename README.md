@@ -1,9 +1,4 @@
 ### How are you? 👋
 
 # About me
-
-*  🔭 I’m currently working on environmental data analysis using R and Python in a project related to my PhD thesis in the aquatic geochemistry group at Laval university
-*  🌱 I’m currently in a journey to move one step forward to learn data science and Machine Learning
-*  📫 How to reach me:LinkedIn account: [link](https://www.linkedin.com/in/wessamne/)
-*  😄 Pronouns: He/Him
-
+I am currently a member of the aquatic geochemistry group at Laval University, where I am working on analyzing environmental data using R and Python as part of my PhD thesis. Alongside this project, I am also actively pursuing my goal of advancing my knowledge in data science and machine learning. If you would like to contact me, my LinkedIn account can be found at the following [link](https://www.linkedin.com/in/wessamne/)
