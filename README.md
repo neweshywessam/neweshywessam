@@ -1,5 +1,17 @@
-# Hello World, this is Wessam!
+# Welcome to my Github Profile!
 
 ## About me
- I am currently a member of the aquatic geochemistry group at Laval University, where I am working on analyzing environmental data using R and Python as part of my PhD thesis. Alongside this project, I am also actively pursuing my goal of advancing my knowledge in data science and machine learning. 
-* Contact me : [link](https://www.linkedin.com/in/wessamne/)
+
+Hi there,
+
+I am a researcher at Laval University, with specialization in environmental data analysis. I am passionate about solving complex data problems and creating meaningful insights from large datasets. I have a good knowledge of R, SQL and Python, and I have basic experience with Tableau. I am constantly updating my skills to stay ahead of the ever-evolving technology landscape. Currently, I am working towards obtaining a certificate in Data Science, which will further enhance my knowledge in the field.
+
+This GitHub profile is a reflection of my work and passion for data analysis. Here, you will find a collection of my data-driven projects, including coding exercises, data visualizations, and machine learning algorithms.
+
+I am always open to new opportunities in the field of data analysis, and I am currently seeking junior positions that allow me to expand my skillset and contribute to the team's growth.
+
+Please don't hesitate to reach out if you have any questions or opportunities.
+
+You also find me in [link](https://www.linkedin.com/in/wessamne/)
+
+Happy coding!
